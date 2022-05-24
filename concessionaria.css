@@ -1,0 +1,61 @@
+<style>
+body{
+margin: 0;
+}
+.menu ul{
+  background-size: contain;
+margin:0;
+background-color:#aaff01;
+list-style: none;
+}
+.menu ul li {
+display: inline;
+}
+.menu ul li a{
+padding: 10px 10px;
+display: inline-block;
+color: black;
+text-decoration: none;
+}
+.menu ul li a:hover{
+color: blue;
+}
+.left{
+width: 250px;
+height=250;
+margin: 0 auto;
+display: table;
+
+}
+.center{
+width: 250px;
+height: 250;
+margin: 0 auto;
+display: table;
+}
+
+.coluna{
+float: left;
+width: 33.33%;
+.row: ;after{
+ content:"";
+ clear: both;
+ display: table;
+
+ }
+ }
+ .pagina{
+   center
+   float: left;
+ }
+ .botons{
+
+ }
+ .tela{
+   center
+   float: left;
+ }
+ h3{
+   color: white;
+ }
+</style>
